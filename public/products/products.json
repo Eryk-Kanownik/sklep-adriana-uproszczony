@@ -1,0 +1,34 @@
+[
+    {
+        "id": 0,
+        "name":"Bluza z kapturem - zielona",
+        "category":"bluza",
+        "images": ["https://picsum.photos/300/300","https://picsum.photos/301/301","https://picsum.photos/302/302"],
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias dignissimos totam debitis ex officia nisi quos quidem error! Commodiex illo praesentium numquam. Odio porro vel repellat quasi at sed.",
+        "price":10000,
+        "isVisible": true,
+        "availableSizes":[
+            "S",
+            "M",
+            "L",
+            "XL",
+            "2XL"
+        ]
+    },
+    {
+        "id": 1,
+        "name":"Bluza z kapturem - czerwona",
+        "category":"bluza",
+        "images": ["https://picsum.photos/303/303","https://picsum.photos/304/304","https://picsum.photos/305/305"],
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias dignissimos totam debitis ex officia nisi quos quidem error! Commodiex illo praesentium numquam. Odio porro vel repellat quasi at sed.",
+        "price":9000,
+        "isVisible": true,
+        "availableSizes":[
+            "S",
+            "M",
+            "L",
+            "XL",
+            "2XL"
+        ]
+    }
+]
